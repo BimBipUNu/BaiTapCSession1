@@ -1,0 +1,16 @@
+BaiTapCSession1-BaiTap1
+
+Flowchart:
+
+1. Start: Nhập a, b.
+2. Decision: Nếu a > b, in "a lớn hơn b". Ngược lại, in "b lớn hơn a".
+3. End.
+
+Trình bày Flowchart:
+
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+- Hình thoi: a > b?
+  +Yes: In "a lớn hơn b"
+  +No: In "b lớn hơn a"
+- Hình bầu dục: End
