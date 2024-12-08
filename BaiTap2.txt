@@ -1,0 +1,12 @@
+BaiTapCSession1-BaiTap2
+Flowchart:
+1. Start: Nhập n.
+2. Decision: Nếu n%2==0, in "n là số chẵn". Ngược lại, in "n là số lẻ".
+3. End.
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập n
+- Hình thoi: n%2==0?
+  +Yes: In "n là số chẵn"
+  +No: In "n là số lẻ"
+- Hình bầu dục: End
