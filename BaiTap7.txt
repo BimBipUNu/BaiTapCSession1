@@ -1,0 +1,12 @@
+BaiTapCSession1-BaiTap77
+Flowchart:
+1. Start: Nhập a, b.
+          Nhập 1 phép tính: +, -, *, /
+2. Decision: In ra kết quả: a (phép tính) b .
+3. End.
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+                  Nhập 1 phép tính: +, -, *, /
+- Hình bình hành: In ra kết quả: a (phép tính) b
+- Hình bầu dục: End

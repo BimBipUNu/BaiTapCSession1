@@ -1,0 +1,12 @@
+BaiTapCSession1-BaiTap4
+Flowchart:
+1. Start: Nhập n.
+2. Decision: Nếu n >= 5, in "Đạt". Ngược lại, in "Không đạt".
+3. End.
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập n
+- Hình thoi: n >= 5?
+  +Yes: In "Đạt"
+  +No: In "Không đạt"
+- Hình bầu dục: End

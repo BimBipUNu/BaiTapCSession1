@@ -1,0 +1,12 @@
+BaiTapCSession1-BaiTap3
+Flowchart:
+1. Start: Nhập a, b.
+2. Process: Tính a + b.
+3. Decision: In ra tổng của phép tính a + b.
+4. End.
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+- Hình chữ nhật: Tính a + b
+- Hình bình hành: In kết quả phép tính tổng a + b
+- Hình bầu dục: End

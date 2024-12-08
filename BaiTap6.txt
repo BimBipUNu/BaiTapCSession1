@@ -1,0 +1,10 @@
+BaiTapCSession1-BaiTap6
+Flowchart:
+1. Start: Nhập a, b.
+2. Decision: In ra x = (-b) / a .
+3. End.
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+- Hình bình hành: In ra x = (-b) / a
+- Hình bầu dục: End
